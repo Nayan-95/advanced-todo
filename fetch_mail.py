@@ -1,7 +1,7 @@
 
 imap_server = "imap.gmail.com"
-email_address = "xyz@gmail.com"
-app_password = "anisbak hb sogg"
+email_address = "manmahanand95@gmail.com"
+app_password = "xhb sogg"
 
 
 

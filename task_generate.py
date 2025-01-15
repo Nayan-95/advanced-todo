@@ -3,7 +3,7 @@
 from huggingface_hub import InferenceClient
 import json
 
-repo_id = "dummy_it_is"
+repo_id = "rt-base-cnn"
 msg = f"""
 Dear [Recipient's Name],
 
@@ -32,7 +32,7 @@ Best regards,
 
 llm_client = InferenceClient(
     model=repo_id,
-    token="xyz_this_is_dummy_kL",  # Replace with your Hugging Face API token 
+    token="WkDjBoidQLUKuL",  # Replace with your Hugging Face API token 
     timeout=120,
 )
 
